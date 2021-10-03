@@ -50,7 +50,7 @@ function Contactlists({ navigation }) {
         const unsubscribe = navigation.addListener('focus', async () => {
             dispatch(fetchInviterLists());
         });
-
+//..
         // Return the function to unsubscribe from the event so it gets removed on unmount
         return unsubscribe;
     }, [inviters]);
