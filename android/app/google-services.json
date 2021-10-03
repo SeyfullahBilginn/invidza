@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "616927075339",
+    "project_id": "invidza-9e811",
+    "storage_bucket": "invidza-9e811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616927075339:android:54c96385a520c41fcd7b0e",
+        "android_client_info": {
+          "package_name": "com.invidza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616927075339-jljp1qjt79kdnrvgc1702lguv5vcma3u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr4ltpgVNoOruiC6AEqQUnipMJMnTf92w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616927075339-jljp1qjt79kdnrvgc1702lguv5vcma3u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
