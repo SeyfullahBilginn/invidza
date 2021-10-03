@@ -9,3 +9,4 @@
 ![Android Emulator - Pixel_3_API_29_5554 3 10 2021 23_48_34](https://user-images.githubusercontent.com/86732121/135771111-0ded1de7-5089-4ec7-90cc-851a75df1cd7.png)
 ![Android Emulator - Pixel_3_API_29_5554 3 10 2021 23_48_46](https://user-images.githubusercontent.com/86732121/135771113-0676f9da-64dd-4db5-9731-6b85c520a3cf.png)
 ![Uploading Android Emulator - Pixel_3_API_29_5554 3.10.2021 23_49_04.png…]()
+![alt text](https://user-images.githubusercontent.com/86732121/135771094-7bf56df8-9cd3-469a-b422-d5e17e4df51e.png)
